@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "PibbleBelly1234.aternos.me:22211",
+    "ip": "PibbleBelly1234.aternos.me",
     "port": 22211,
     "version": "1.21.11",
     "try-creative": false
